@@ -15,6 +15,16 @@ These are the bites available:
 * Bite 2: Functions, global and local variables
 * Bite 3: if statements
 * Bite 4: Validate user input in python
+* Bite 5: Get data from SQLite
+* Bite 6: Loop and manage errors
+* Bite 7: Google Maps API
+* Bite 8: Maps in matplotlib
+* Bite 9: Line charts in matplotlib
+* Bite 10: Bar charts in matplotlib
+
+![image](https://user-images.githubusercontent.com/19476550/209303202-cb62628e-72a3-4d27-84c2-1a0ac837a3c5.png)
+
+
 
 # 2. You can find all the videos in the playlist below:
 
