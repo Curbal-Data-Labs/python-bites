@@ -22,9 +22,6 @@ These are the bites available:
 * Bite 9: Line charts in matplotlib
 * Bite 10: Bar charts in matplotlib
 
-![image](https://user-images.githubusercontent.com/19476550/209303202-cb62628e-72a3-4d27-84c2-1a0ac837a3c5.png)
-
-
 
 # 2. You can find all the videos in the playlist below:
 
